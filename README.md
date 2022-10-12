@@ -1,4 +1,4 @@
-# Andrew Scott's Portfolio
+# Lucas Wang's Portfolio
 
 # Sections
 
