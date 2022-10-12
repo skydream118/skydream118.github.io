@@ -556,7 +556,7 @@ const projects = {
       id: "2",
       name: "Caballus",
       logo_path: "riafox.png",
-      url: "",
+      url: "https://ion-caballus.qa.riafox.dev/",
       description:
         "Caballus is a horse riding and social app. You can enjoy riding and meet friends.",
       languages: [
