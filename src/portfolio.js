@@ -11,22 +11,22 @@ const settings = {
 const greeting = {
   title: "Hello 👋.",
   title2: "Lucas",
-  logo_name: "Lucas Wang",
-  nickname: "topdev",
-  full_name: "Lucas Wang",
+  logo_name: "Lucas Lim",
+  nickname: "SkelectonDev",
+  full_name: "Lucas Lim",
   subTitle:
     "Senior Full Stack Engineer, React expert⚛️, Blockchain enthusiast.🔥",
   funFact: "I like spaghetti🍝, but hate spaghetti code",
   resumeLink:
     "https://drive.google.com/file/d/1dkOaBvZyZmh9y5vqZ0OVFbJRKljSPPWJ/view?usp=sharing",
-  mail: "mailto:topdev9999@gmail.com",
+  mail: "mailto:lucaslim00118@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/SkelectonDev",
-  linkedin: "https://www.linkedin.com/in/andrew-scott-visitskyworld/",
-  gmail: "topdev9999@gmail.com",
+  // linkedin: "https://www.linkedin.com/in/andrew-scott-visitskyworld/",
+  gmail: "lucaslim00118@gmail.com",
   discord: "https://discord.com/users/929161993011748864",
   telegram: "https://t.me/chaindev",
 };
@@ -107,6 +107,10 @@ const skills = {
         {
           skillName: "SolidJS",
           name: "logos:solidjs-icon",
+        },
+        {
+          skillName: "Three.js",
+          name: "logos:threejs",
         },
         {
           skillName: "Directus",
@@ -555,7 +559,7 @@ const projects = {
     {
       id: "2",
       name: "Caballus",
-      logo_path: "riafox.png",
+      logo_path: "caballus.png",
       url: "https://ion-caballus.qa.riafox.dev/",
       description:
         "Caballus is a horse riding and social app. You can enjoy riding and meet friends.",
@@ -647,6 +651,9 @@ const projects = {
         },
         {
           name: "Redux",
+        },
+        {
+          name: "Three.js",
         },
         {
           name: "BootStrap",
