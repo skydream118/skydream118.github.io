@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d180256414c1283c00e940a1bfe9d68e",
+    "revision": "0fe1a27df2e1a7a3edbb78006f185256",
     "url": "/index.html"
   },
   {
-    "revision": "6ba26280df4ecaf15336",
-    "url": "/static/css/main.52bfdf24.chunk.css"
+    "revision": "353ed300602780ac8e60",
+    "url": "/static/css/main.ec695d46.chunk.css"
   },
   {
-    "revision": "b777d78a874ff7941ec3",
-    "url": "/static/js/2.fc593b07.chunk.js"
+    "revision": "3f41105880e461071a15",
+    "url": "/static/js/2.07bc0aee.chunk.js"
   },
   {
-    "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/static/js/2.fc593b07.chunk.js.LICENSE.txt"
+    "revision": "4cf5c6c6f464cc15458a86cbdc669a15",
+    "url": "/static/js/2.07bc0aee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ba26280df4ecaf15336",
-    "url": "/static/js/main.abf367b4.chunk.js"
+    "revision": "353ed300602780ac8e60",
+    "url": "/static/js/main.9e412a37.chunk.js"
   },
   {
     "revision": "f139b624154a37532bb8",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "b7c0fd5988c477735b4c49b3675cc019",
+    "url": "/static/media/artheart.b7c0fd59.png"
   },
   {
     "revision": "4d53ee8cd04dea7c55c43ebc6de88d61",
@@ -98,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4263edcc93d2fc16ceda9c4bd75ec268",
     "url": "/static/media/dework.4263edcc.png"
+  },
+  {
+    "revision": "d9c8c41b42e48651bae6663dfa90ea64",
+    "url": "/static/media/dework.d9c8c41b.png"
   },
   {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
@@ -160,6 +168,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
+    "revision": "9330508dd74e33599a2c53b84ad6af93",
+    "url": "/static/media/fllite.9330508d.png"
+  },
+  {
     "revision": "6364dbb3a5b59c28566eac7e6aaacd04",
     "url": "/static/media/gdg.6364dbb3.png"
   },
@@ -192,12 +204,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/localguide.b7f903d7.png"
   },
   {
+    "revision": "dab404750a58545168ce7d53d5f0322f",
+    "url": "/static/media/maplibre.dab40475.png"
+  },
+  {
     "revision": "ab5cede62996e53ceebdac2656959e69",
     "url": "/static/media/marketplace.ab5cede6.png"
   },
   {
-    "revision": "b4d7bb6645efcd8d5a19bd385bb0109a",
-    "url": "/static/media/me.b4d7bb66.png"
+    "revision": "fc6b29f10d08d8d2eb0a6900e25d647a",
+    "url": "/static/media/me.fc6b29f1.png"
   },
   {
     "revision": "bc5cfd3a887013976863247e66c389a2",
@@ -224,6 +240,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/novalab.21053318.png"
   },
   {
+    "revision": "2d975c8599d5ae9e5a8ea11ed4e31e6c",
+    "url": "/static/media/ntu.2d975c85.png"
+  },
+  {
     "revision": "22f11067f2d745aaceb51e485720635d",
     "url": "/static/media/postman.22f11067.jpg"
   },
@@ -234,6 +254,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "541c38c48c7f0dceed82e19985d7b9ac",
     "url": "/static/media/riafox.541c38c4.png"
+  },
+  {
+    "revision": "d6460071408908fb6e9af046170f095d",
+    "url": "/static/media/shapeshift.d6460071.png"
   },
   {
     "revision": "7b7a76ef55658f6999ce00c5d55f85a5",
@@ -248,12 +272,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/starl.dee15a63.png"
   },
   {
+    "revision": "e81e1603a924c26431c1ac1391583912",
+    "url": "/static/media/tidio.e81e1603.png"
+  },
+  {
     "revision": "c465ecaabba891d7c11434620fd2abb4",
     "url": "/static/media/trantor.c465ecaa.jpg"
   },
   {
-    "revision": "f31b7c71c4f0676cc5eb8256e40393ab",
-    "url": "/static/media/ubc.f31b7c71.png"
+    "revision": "946dbbbc03bede0a0ab1278ede2cfe71",
+    "url": "/static/media/treasure-chess.946dbbbc.png"
   },
   {
     "revision": "246ad3ede6a55b0102afa9871cfcbf21",
