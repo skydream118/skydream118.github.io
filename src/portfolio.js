@@ -333,66 +333,92 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Senior Full-Stack Engineer",
-          company: "NovaLab",
-          company_url: "https://whimsical-creponne-53c861.netlify.app/",
-          logo_path: "novalab.png",
-          duration: "2022.03 - PRESENT",
+          title: "Senior React Developer",
+          company: "U+",
+          company_url: "https://u.plus/",
+          logo_path: "Uplus.png",
+          duration: "2022.11 - present",
           location: "Remote",
           description: `
-          •	Assessed and reviewed all pull requests created by other teammates to ensure the quality and accuracy of the code.
-          •	I have been responsible for building both the frontend and backend for the web application,  as well as oversight onto technical decisions for the project. 
-          •	Integrated enhancements into web design to improve user stickiness, smooth functionality.
-          •	Assisted backend developers with troubleshooting and problem solving.
+          - Refactoring overall code to improve code quality and optimize performance.
+          - Integrated enhancements into web design to improve user stickiness, smooth functionality.
+          - Built respnonsive and smart UIs by customizing MUI components.
+          - Adding form validation functionality to overall projects using react hook form.
+          - Implementing real time chat using twilio`,
+          color: "#0071C5",
+        },
+        {
+          title: "Fullstack Engineer",
+          company: "Dework",
+          company_url: "https://dework.xyz/",
+          logo_path: "dework.png",
+          duration: "2022.01 - 2022.11",
+          location: "Remote",
+          description: `
+          -	Followed SDLC best practices within Agile environment to produce rapid iterations.
+          -	Assessed and reviewed all pull requests created by other teammates to ensure the quality and accuracy of the code.
+          -	I have been responsible for building both the frontend and backend for the web application, the Solidity smart contracts, as well as oversight onto technical decisions for the project.
+          -	Integrated enhancements into web design to improve user stickiness, smooth functionality, and boost load times.
+          -	Assisted backend developers with troubleshooting and problem solving.
+          -	Contributed to the internal team by authoring two NPM packages to implement custom Google Analytics and Facebook tags within our applications.`,
+          color: "#0071C5",
+        },
+        {
+          title: "Senior Frontend Engineer",
+          company: "Shapeshift",
+          company_url: "https://shapeshift.com/",
+          logo_path: "shapeshift.jpg",
+          duration: "2020.11 - 2021.12",
+          location: "Remote",
+          description: `
+          -	Collaborated with engineering team to review application requirements, plan implementation details and estimate delivery timelines.
+          -	Brought in shipping confidence for the app and improved our deployment pipeline by implementing a testing harness in Jest and Enzyme covering over 75% of client code, configuring linting with ESLint and formatting with Prettier for overall code quality.
+          -	Worked on Web3 integration using ethers.js and web3.js
+          -	Created mobile applications based on React, integrating Facebook's best practices for interface design.
+          -	Constructed integration libraries to interface with servers and APIs.
           `,
           color: "#0071C5",
         },
         {
-          title: "Senior Full-Stack Engineer",
-          company: "Starlink",
-          company_url: "https://starlproject.com/",
-          logo_path: "starlink.png",
-          duration: "2021.02 - 2022.01",
+          title: "Frontend Engineer",
+          company: "Tidio",
+          company_url: "https://tidio.com/",
+          logo_path: "tidio.png",
+          duration: "2019.05 - 2020.11",
           location: "Remote",
           description: `
-          •	Collaborated with engineering team to review application requirements, planned implementation details and estimated delivery timelines.
-          •	Brought in shipping confidence for the app and improved our deployment pipeline by implementing a testing harness in Jest and Enzyme covering over 75% of client code, configuring linting with ESLint and formatting with Prettier for overall code quality.
-          •	Created NFT market place based on Next.js and Express.js.
-          •	Worked on Web3 integration using ethers.js and web3.js.
-          •	Audited market place smart contract developed with solidity.
+          -	Optimized and improved the code quality by owning the rewriting of the application from an MVC view- based approach to a SPA and upgraded to React 16.8, rewriting all class-based components to functional components with hooks, implemented the Context API for global storage and authored over 330 individual tests across 110 test suites to react 80% code coverage. Since I wrote the client app 2 years prior, it gave me the opportunity to catch all my oversights and apply newfound knowledge. 
+          -	Enforced Agile and Scrum development methodologies on interface projects to shorten development times.
+          -	Coordinated with project management staff on database development timelines and project scope.
+          -	Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.
           `,
           color: "#0071C5",
         },
         {
-          title: "Full-Stack Engineer",
-          company: "Riafox",
-          company_url: "https://www.riafox.com",
-          logo_path: "riafox.png",
-          duration: "2018.04 - 2020.12",
-          location: "Remote",
-          description: `
-          •	Enforced Agile and Scrum development methodologies on interface projects to shorten development times.
-          •	Implemented 100% pixel-perfect, responsive mobile app with Angular.js, Ionic.
-          •	Worked on backend using Nest.js.
-          •	Authored over 200 individual tests across 70 test suites to react 80% code coverage.
-          •	Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.
-          `,
-          color: "#0071C5",
-        },
-        {
-          title: "React & React Native Developer",
-          company: "CreativeSims",
-          company_url: "http://www.creativesims.com/",
-          logo_path: "creativesims.png",
-          duration: "2015.04 - 2018.03",
+          title: "Software Engineer",
+          company: "Matellio",
+          company_url: "https://www.matellio.com/",
+          logo_path: "matellio.png",
+          duration: "2017.08 - 2019.05",
           location: "Onsite",
           description: `
-          •	Maintained high-level expertise in React state management strategies.
-          •	Built user interfaces for a re-imagined user experience using React and Node.js 
-          •	Implemented 100% pixel-perfect, responsive and smart front-end UI.
-          •	Cooperated with the back-end team in their development of RESTful APIs.
-          •	Completed React Native app for android and ios.
-          •	Participated in software field testing to verify in-situ 
+          -	Designed REST calls using React to streamline user interface performance.
+          -	Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
+          -	Developed and implemented performance improvement strategies and plans to promote continuous improvement.
+          `,
+          color: "#0071C5",
+        },
+        {
+          title: "Software Engineer",
+          company: "Trantor.Inc",
+          company_url: "https://www.trantorinc.com/",
+          logo_path: "trantor.jpg",
+          duration: "2014.11 - 2017.08",
+          location: "Onsite",
+          description: `
+          -	Maintained high-level expertise in React state management strategies.
+          -	Participated in cross-functional projects while working in lean development environments.
+          -	Participated in software field testing to verify in-situ performance of developed projects.
           `,
           color: "#0071C5",
         },
@@ -406,7 +432,7 @@ const experience = {
           company: "Civilization",
           company_url: "https://civfund.org/",
           logo_path: "civilization.png",
-          duration: "Mar 2022 - Present",
+          duration: "Mar 2022 - Feb 2023",
           location: "Work From Home",
           description: `
             •	Built 100% pixel perfect, responsive smart frontend with vue.js
