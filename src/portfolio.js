@@ -10,25 +10,25 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Lucas",
-  logo_name: "Lucas Lim",
-  nickname: "SkelectonDev",
-  full_name: "Lucas Lim",
+  title2: "Andrew",
+  logo_name: "Andrew Scott",
+  nickname: "skydream118",
+  full_name: "Andrew Scott",
   subTitle:
-    "Senior Full Stack Engineer, React expert⚛️, Blockchain enthusiast.🔥",
+    "Senior Full Stack Engineer, React & Node.js expert⚛️, Blockchain enthusiast.🔥",
   funFact: "I like spaghetti🍝, but hate spaghetti code",
   resumeLink:
-    "https://drive.google.com/file/d/1dkOaBvZyZmh9y5vqZ0OVFbJRKljSPPWJ/view?usp=sharing",
-  mail: "mailto:lucaslim00118@gmail.com",
+    "https://drive.google.com/file/d/1TJMM41NZ333EU9mflVBvqzVH7qmdNKuO/view?usp=sharing",
+  mail: "mailto:smart118.dev@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/SkelectonDev",
-  // linkedin: "https://www.linkedin.com/in/andrew-scott-visitskyworld/",
-  gmail: "lucaslim00118@gmail.com",
-  discord: "https://discord.com/users/929161993011748864",
-  telegram: "https://t.me/chaindev",
+  github: "https://github.com/skydream118",
+  linkedin: "https://www.linkedin.com/in/andrew-scott-visitskyworld/",
+  gmail: "smart118.dev@gmail.com",
+  discord: "https://discord.com/users/908242699000373308",
+  telegram: "https://t.me/skydream720",
 };
 
 const skills = {
@@ -272,17 +272,17 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "University of British Columbia",
+      title: "National Taiwan University",
       subtitle: "Bachelor in Computer Science",
-      logo_path: "ubc.png",
-      alt_name: "UBC",
+      logo_path: "ntu.png",
+      alt_name: "NTU",
       duration: "2011 - 2014",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
-      website_link: "https://www.ubc.ca/",
+      website_link: "https://www.ntu.edu.tw/",
     },
   ],
 };
@@ -493,31 +493,120 @@ const contactPageData = {
 const projects = {
   data: [
     {
-      id: "0",
-      name: "Ordinem",
-      url: "https://ordinem-quest-d-app-hbgq.vercel.app/",
-      logo_path: "novalab.png",
-      description: "Ordinem is the NFT marketing and social app",
+      id: "9",
+      name: "Fllite",
+      url: "https://app.fllite.com/",
+      logo_path: "fllite.png",
+      description:
+        "Booking aircrafts platform, you can book the whole aircraft or jump on a shared trip.",
       languages: [
         {
           name: "React",
-          iconifyClass: "logos-react",
         },
         {
           name: "TypeScript",
-          iconifyClass: "logos-typescript",
         },
         {
-          name: "Next.js",
+          name: "MaterialUI",
         },
         {
-          name: "Google Firebase",
+          name: "GraphQL",
         },
         {
-          name: "Web3",
+          name: "Twilio",
         },
         {
-          name: "Solana",
+          name: "ExpressJS",
+        },
+        {
+          name: "MongoDB",
+        },
+      ],
+    },
+    {
+      id: "8",
+      name: "ArtHeart",
+      url: "https://artheart.ai",
+      logo_path: "artheart.png",
+      description:
+        "AI powered character generation platform, you can even chat with him/her",
+      languages: [
+        {
+          name: "Svelte",
+        },
+        {
+          name: "TypeScript",
+        },
+        {
+          name: "Flutter",
+        },
+        {
+          name: "Django",
+        },
+        {
+          name: "Hugging Face",
+        },
+        {
+          name: "Stable Diffusion",
+        },
+      ],
+    },
+    {
+      id: "5",
+      name: "Dework",
+      logo_path: "dework.png",
+      url: "https://app.dework.xyz/",
+      description:
+        "Dework is a web3-native project management tool with token payments, credentialing, bounties",
+      languages: [
+        {
+          name: "React",
+        },
+        {
+          name: "Typescript",
+        },
+        {
+          name: "Node.js",
+        },
+        {
+          name: "JavaScript",
+        },
+        {
+          name: "GraphQL",
+        },
+        {
+          name: "Web3.js",
+        },
+        {
+          name: "AntDesign",
+        },
+      ],
+    },
+    {
+      id: "7",
+      name: "MapLibre",
+      url: "https://maplibre.org",
+      logo_path: "maplibre.png",
+      description:
+        "Open-source mapping libraries for web and mobile app developers.",
+      languages: [
+        {
+          name: "React",
+        },
+        {
+          name: "TypeScript",
+        },
+        {
+          name: "Golang",
+        },
+        {
+          name: "Rust",
+        },
+        {
+          name: "WebGL",
+        },
+        {
+          name: "Javascript",
         },
       ],
     },
@@ -611,12 +700,123 @@ const projects = {
       ],
     },
     {
+      id: "1",
+      name: "Shapeshift",
+      logo_path: "shapeshift.png",
+      url: "https://github.com/shapeshift/web",
+      description:
+        "Shapeshift is one of the world famous cryptocurrency exchange platforms",
+      languages: [
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "TypeScript",
+          iconifyClass: "logos-typescript",
+        },
+        {
+          name: "Chakra UI",
+        },
+        {
+          name: "Cypress",
+        },
+        {
+          name: "Jest",
+        },
+      ],
+    },
+    {
+      id: "2",
+      name: "Tidio Chatbot",
+      logo_path: "tidio.png",
+      url: "https://www.tidio.com/chatbots/",
+      description: "Tidio is a conversational AI platform",
+      languages: [
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "Vue3",
+          iconifyClass: "logos-vue",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "CircleCI",
+        },
+        {
+          name: "GraphQL/Apollo",
+        },
+      ],
+    },
+    {
+      id: "0",
+      name: "Ordinem",
+      url: "https://ordinem-quest-d-app-hbgq.vercel.app/",
+      logo_path: "novalab.png",
+      description: "Ordinem is the NFT marketing and social app",
+      languages: [
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "TypeScript",
+          iconifyClass: "logos-typescript",
+        },
+        {
+          name: "Next.js",
+        },
+        {
+          name: "Google Firebase",
+        },
+        {
+          name: "Web3",
+        },
+        {
+          name: "Solana",
+        },
+      ],
+    },
+    {
+      id: "4",
+      name: "Treasure chess",
+      logo_path: "treasure-chess.png",
+      url: "https://treasure.chess.com/",
+      description: "You can collect your NFT by playing chess game!",
+      languages: [
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "TypeScript",
+          iconifyClass: "logos-typescript",
+        },
+        {
+          name: "RedwoodJS",
+        },
+        {
+          name: "Ethers.js",
+        },
+        {
+          name: "Prisma",
+        },
+        {
+          name: "Node.js",
+        },
+      ],
+    },
+    {
       id: "5",
       name: "Civilization",
       logo_path: "civilization-farm.png",
       url: "https://civfund.org/",
-      description:
-        "Civilization is the world's first zero-fee DeFi trading system.",
+      description: "The world's first zero-fee DeFi trading system.",
       languages: [
         {
           name: "Vue.js",
@@ -644,7 +844,7 @@ const projects = {
       logo_path: "buddy-trace.png",
       url: "https://buddy.trace.network/",
       description:
-        "Buddy is for making your own Buddy for the metaverse with a customized avatar generated by an algorithm just for you.",
+        "Making your own Buddy for the metaverse with a customized avatar generated by an algorithm just for you.",
       languages: [
         {
           name: "React",

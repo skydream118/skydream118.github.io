@@ -62,7 +62,7 @@ function Contact(props) {
           <div>
             <InlineWidget
               styles={{ overflow: "hidden", height: 900 }}
-              url="https://calendly.com/topdev9999"
+              url="https://calendly.com/andrewguru720"
               pageSettings={{ hideGdprBanner: true }}
             />
           </div>
